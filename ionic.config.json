@@ -1,0 +1,7 @@
+{
+  "name": "ponal-120-vigia-ionic-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
